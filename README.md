@@ -45,11 +45,10 @@ I log into sql using ubuntu terminal to create a database where the data will be
 ![Import data from the csv file to sql](images/successfully_imported_excel_data_into_sql.png "importing_the_data")
 
 # check to confirm the import of the data
-![Confirming the import ](images/look_at_the_inside_of the_table.png "confirm_data_has_been_collected")
+![Confirming the import ](images/look_at_the_inside_of_the_table.png "comfirm_data_import")
 
 # Change the column data columns to their appropiate data types
-
-![Change the data types ](images/change data_types of columns.png "Change columns")
+![Change the data types ](images/change_data_types_of_columns.png "change columns")
 
 # Conclusion 
 - The Data was collected in eight different years
