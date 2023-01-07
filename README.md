@@ -19,11 +19,12 @@ Released under Chttps://www.kaggle.com/datasets/jboysen/global-food-prices?resou
 
 # Open the csv in Excel
 I take a look at the data in excel first to know the kind of headers that am dealing with 
-![Taking a look at the data set in excel ]('images/take a look at the dataset.png')
+![Taking a look at the data set in excel ](images/take a look at the dataset.png "Take a look at the dataset")
 
 # Log into sql 
 I log into sql using ubuntu terminal to create a database where the data will be imported to
-![Logging into sql ]('images/logging_into_sql_using_ubuntu_terminal.png')
+
+![Logging into sql](images/logging_into_sql_using_ubuntu_terminal.png "Logging in")
 
 # Create a Database to hold the file
 ![create database ]('images/create_database_for_food_prices.png')
