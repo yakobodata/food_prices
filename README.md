@@ -16,6 +16,13 @@ License:
 
 Released under Chttps://www.kaggle.com/datasets/jboysen/global-food-prices?resource=downloadC BY-IGO.
 
+# Conclusion 
+- The Data was collected in eight different years
+- The Data was collected in seven districts
+- The currency that was used was UGX
+- The standard deviation of the prices of maize flour was UGX469.14
+- The average price of Maize Flour was 1694.10 UGX 
+
 
 # Open the csv in Excel
 I take a look at the data in excel first to know the kind of headers that am dealing with 
@@ -50,12 +57,6 @@ I log into sql using ubuntu terminal to create a database where the data will be
 # Change the column data columns to their appropiate data types
 ![Change the data types ](images/change_data_types_of_columns.png "change columns")
 
-# Conclusion 
-- The Data was collected in eight different years
-- The Data was collected in seven districts
-- The currency that was used was UGX
-- The standard deviation of the prices of maize flour was UGX469.14
-- The average price of Maize Flour was 1694.10 UGX 
 
 
 
