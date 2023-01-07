@@ -47,7 +47,8 @@ I log into sql using ubuntu terminal to create a database where the data will be
 ![Confirming the import]('images/look_at_the_inside_of the_table.png')
 
 # Change the column data columns to their appropiate data types
-![Change the data types]('change data_types of columns.png')
+
+![Change the data types](images/change data_types of columns.png "Change columns")
 
 # Conclusion 
 - The Data was collected in eight different years
